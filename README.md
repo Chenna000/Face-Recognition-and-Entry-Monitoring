@@ -7,15 +7,15 @@ An AI-powered face recognition system for secure entry management, designed to s
 
 ## 🚀 Features
 
-- ✅ User Registration with Profile Image Upload
-- ✅ AI-Powered Face Recognition using OpenCV
-- ✅ Real-time Entry Monitoring
-- ✅ Secure Admin Panel to Manage Users
-- ✅ User Editing with Image Replacement & Augmentation
-- ✅ Image Augmentation for Robust Face Recognition
-- ✅ MySQL Database Integration
-- ✅ Frontend built with React
-- ✅ Flask Backend API for seamless integration
+-  User Registration with Profile Image Upload
+-  AI-Powered Face Recognition using OpenCV
+-  Real-time Entry Monitoring
+-  Secure Admin Panel to Manage Users
+-  User Editing with Image Replacement & Augmentation
+-  Image Augmentation for Robust Face Recognition
+-  MySQL Database Integration
+-  Frontend built with React
+-  Flask Backend API for seamless integration
 
 ---
 
